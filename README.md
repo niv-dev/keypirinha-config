@@ -1,4 +1,4 @@
-# keypirinha-config
+# Niv's Keypirinha Config
 
 My custom KeyPirinha Config. 
 
